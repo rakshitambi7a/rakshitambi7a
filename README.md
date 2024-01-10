@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rakshitambi7a
+- 👋 Hi, I’m Rakshit
 - 👀 I’m interested in web development, UI/UX design, Data analysis, Open-Source Projects, Photography and Filmmaking
 - 🌱 I’m currently learning Python, HTML , CSS and C++
 - 💞️ I’m looking to collaborate on HTML and CSS Projects
