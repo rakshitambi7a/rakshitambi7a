@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python, HTML , CSS and C++
 - 💞️ I’m looking to collaborate on HTML and CSS Projects
 - 📫 How to reach me ... My LinkedIn https://www.linkedin.com/in/rakshitambi/
+![You got to read me,,, :( i was not able to load then](https://github.com/user-attachments/assets/e32ab287-b268-43ed-be19-2448630bb39e)
 
-![You got to read me,,, :( i was not able to load then] (https://raw.githubusercontent.com/rakshitambi7a/gifs-for-personal-use-/main/giphy.webp?token=GHSAT0AAAAAACWSX3MPG566RISYF5CDMAAMZWMKJWA)
 
 <!---
 rakshitambi7a/rakshitambi7a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
