@@ -4,11 +4,8 @@
 - 👋, I've been wandering the web for a while and I like it here, trying out new stuff, failing more than often and figuring out a workaround, and making it lit one day is all i strive for 
 - 👀 a little late but ⚡ly getting my hands dirty on web dev, Data analysis, Open-Source Projects and machine learning
 - 💞️ Creating content or at least giving it a fair shot to grab those eyeballs...
-- 📫 Hit me up at [My LinkedIn] (https://www.linkedin.com/in/rakshitambi/) or [Insta] (https://www.instagram.com/rakshitambi/)
+- 📫 Hit me up at  [@rakshitambi](https://www.instagram.com/rakshitambi/) or [blue logo stuff...](https://www.linkedin.com/in/rakshitambi/)
 
 
 
-<!---
-rakshitambi7a/rakshitambi7a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
